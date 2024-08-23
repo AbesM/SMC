@@ -25,9 +25,38 @@ url = "index.xml"
 
 
 
+
 [params]
   goToTop = true
+  math = true
 
-intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+ [params.author]
+ avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
+  intro = "SMC Blog "
+  name = "Seba"
+  description = "A blog where I just collect some random math toughts."
+
+  [menu]
+  [[menu.main]]
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = 'https://abesm.github.io/Hugo_Site/'
+    weight = 10
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+    [[menu.main]]
+    pageRef="books"
+    name = 'Books'
+    url = '/posts/LibriDaleggere/'
+    weight = 20
+  [[menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/pages/about/'
+    weight = 30

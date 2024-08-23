@@ -14,7 +14,18 @@
       
       <guid>http://localhost:1313/posts/cosedavedere/</guid>
       
-      <description>A selection of topics that I should learn more about Blow up Chern Classes </description>
+      <description>A selection of topics that I should learn more about, if you want to study any of them feel free to contact me. Blow up Chern Classes </description>
+      
+    </item>
+    
+    <item>
+      <title>Who am I</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Fri, 23 Aug 2024 16:03:31 +0200</pubDate>
+      
+      <guid>http://localhost:1313/pages/about/</guid>
+      
+      <description>Hi, I am Seba. I like math. I actually like manifolds and in particular low dimensional topology. While I dreamed to study Hyperbolic Geometry on the path (more like an highway) left behind by William P. Thurston I found myself stuck with 4-dimensional manifolds, where a theory of geometrization is unthinkable of. I guess we will do something anyway!</description>
       
     </item>
     
