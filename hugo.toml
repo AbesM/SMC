@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'SMC'
-theme = 'hugo-blog-awesome'
 
 [module]
   [[module.imports]]
