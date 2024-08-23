@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'SMC'
 theme = 'hugo-blog-awesome'
 
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
 # Enable emojis globally
 enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
