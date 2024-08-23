@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'SMC'
+theme = 'hugo-blog-awesome'
+
+# Enable emojis globally
+enableEmoji = true
+ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/AbesM"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://x.com/SebastianMatiaC"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "index.xml"
+
+
+
+
+[params]
+  goToTop = true
+
+intro = "Awesome hugo blog"
+  name = "Sidharth R"
+  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
