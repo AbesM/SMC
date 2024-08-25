@@ -8,13 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Aug 2024 16:03:31 +0200</lastBuildDate><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>Who am I</title>
       <link>http://localhost:1313/pages/about/</link>
       <pubDate>Fri, 23 Aug 2024 16:03:31 +0200</pubDate>
       
       <guid>http://localhost:1313/pages/about/</guid>
       
-      <description>Who am I? Hi, I am Seba, a PhD candidate.</description>
+      <description>Hi, I am Seba. I like math. I actually like manifolds and in particular low dimensional topology. While I dreamed to study Hyperbolic Geometry on the path (more like an highway) left behind by William P. Thurston I found myself stuck with 4-dimensional manifolds, where a theory of geometrization is unthinkable of. I guess we will do something anyway!</description>
       
     </item>
     

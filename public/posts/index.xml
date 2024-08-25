@@ -6,7 +6,18 @@
     <description>Recent content in Posts on SMC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2024 16:03:31 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knots and Links (Rolfsen)</title>
+      <link>http://localhost:1313/posts/rolfsen/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/rolfsen/</guid>
+      
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Cosedavedere</title>
       <link>http://localhost:1313/posts/cosedavedere/</link>
@@ -14,7 +25,7 @@
       
       <guid>http://localhost:1313/posts/cosedavedere/</guid>
       
-      <description>A selection of topics that I should learn more about, if you want to study any of them feel free to contact me. Blow up Chern Classes </description>
+      <description>A selection of topics that I should learn more about, if you want to study any of them feel free to contact me. Blow up Chern Classes Lefschetz Hyperplane TheoreLefschetz Hyperplane Theorem </description>
       
     </item>
     
