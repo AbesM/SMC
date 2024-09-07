@@ -1,6 +1,6 @@
 +++
 title = 'Gompf-Stipsiciz'
-date = 2024-08-21T13:33:45+02:00
+date = 2024-09-07
 
 +++
 
