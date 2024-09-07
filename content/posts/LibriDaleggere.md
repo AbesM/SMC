@@ -1,6 +1,6 @@
 +++
 title = 'LibriDaleggere'
-date = 2024-08-21T13:36:54+02:00
+date = 2024-09-7
 +++
 
 1. [Rolfsen](https://abesm.github.io/SMC/posts/rolfsen/).
