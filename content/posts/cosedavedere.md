@@ -7,4 +7,7 @@ date = 2024-08-23T16:03:31+02:00
 
 1. Blow up 
 2. Chern Classes
-3. Lefschetz Hyperplane TheoreLefschetz Hyperplane Theorem
+3. Lefschetz Hyperplane Theorem
+4. Surgery&Plumbing
+5. Branched Coverings
+6. Disk Bundles over Spheres
