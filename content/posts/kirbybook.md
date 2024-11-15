@@ -1,6 +1,6 @@
 +++
-title: "Kirby Book"
-date: 2023-10-05
+title = "Kirby Book"
+date = 2023-10-05
 +++
 
 # Kirby Book
