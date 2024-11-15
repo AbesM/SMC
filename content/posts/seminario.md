@@ -1,6 +1,6 @@
 +++
-title: "Seminario 4-Varietà (SISSA)"
-date: 2023-10-05
+title = "Seminario 4-Varietà (SISSA)"
+date = 2023-10-05
 +++
 
 The following is a sketch of a seminar with goal the proof of a theorem of Rokhlin following the proof given by Kirby (1986)
