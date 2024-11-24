@@ -11,3 +11,4 @@ date = 2024-08-23T16:03:31+02:00
 4. Surgery&Plumbing
 5. Branched Coverings
 6. Disk Bundles over Spheres
+7. Stein Strucures vs Tight/Overtwisted
