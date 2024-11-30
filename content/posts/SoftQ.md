@@ -9,3 +9,4 @@ date = 2024-11-06
 3. Calculating intersection forms can be reduced to counting linking numbers, that is because we can imagine seifert surfaces and pushing one of them in the interior of the ball. What is left is the Seifert surface of one of the knot, and the knot that we "pushed". When we consider self-linking number it is the framing by definition basically, just think about it. (when they have 0 and 2 handles)
 4. Why should the intersection form be unimodular?
 5. Homie said something about loops have always trivial bundle. Is this because they are orientable? Because of dim=4? IDK!
+6. Why is that orientability is the same as a trivialization on the one skeleton?

@@ -7,3 +7,4 @@ The following is a sketch of a seminar with goal the proof of a theorem of Rokhl
 
 1. We start with a definition of what is a Spin Structure (?)
 2. 
+
