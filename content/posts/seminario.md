@@ -1,10 +1,10 @@
 +++
 title = "Seminario 4-Varietà (SISSA)"
-date = 2024-10-05
+date = 2024-12-07
 +++
 
-The following is a sketch of a seminar with goal the proof of a theorem of Rokhlin following the proof given by Kirby (1986)
-
-1. We start with a definition of what is a Spin Structure (?)
-2. 
-
+# Observation on the seminar
+ 
+ 1. W is homotopy equivalent to a circle because it is just a deformation retract of $S^5\setminus \varphi(S^3)$. Hence is it is homotopy equivalent to $\D^4\times S^1$.
+ 2. Need to learn Palais results (basically he can extend diffeomorphism from nghood of k-cells)
+ 3. Need to learn how to promote homotopy maps for $S^1\times S^4$.
