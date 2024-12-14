@@ -1,5 +1,5 @@
 +++
-title = 'COlloquio1'
+title = 'Colloquio1'
 date = 2024-12-07
 +++
 
