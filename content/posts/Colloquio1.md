@@ -1,6 +1,7 @@
 +++
 title = 'Colloquio1'
 date = 2024-12-07
+lastmod = ':git'
 +++
 
 
