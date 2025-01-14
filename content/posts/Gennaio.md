@@ -9,3 +9,6 @@ We want to investigate fibered links in boundary of Lefschetz Fibration. We use 
 # Domande
 1. Andrebbe chiarita per bene la questione per la quale il fibered link deve essere nel sottogrupo commutatore della varietà grande. 
 2. Partire da EF e provare ad applicare mosse di Apostolakis? Magari copiando Harer...
+
+
+In PZ ci dovrebbero essere le mosse per collegare i differenti possibili libri aperti. Considerata la situazione iniziale del teorema di EF possiamo fare qualcosa? Se sì cosa? 
