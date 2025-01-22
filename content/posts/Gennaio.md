@@ -12,3 +12,16 @@ We want to investigate fibered links in boundary of Lefschetz Fibration. We use 
 
 
 In PZ ci dovrebbero essere le mosse per collegare i differenti possibili libri aperti. Considerata la situazione iniziale del teorema di EF possiamo fare qualcosa? Se sì cosa? 
+
+# Bisogni 
+To get the wanted result I have to fix a bunch of things: 
+1. I need to understand how to attach 2 handles to the surface. 
+2. I need to fix the Chern classes of the two handlebodies
+3. I need to make them overtwisted
+4. I need to fix the $d_2$ invariant, 
+
+While I do these, can I "follow" what happens to the binding? 
+
+# Risposte 
+
+2. S does not change anything here, so it has to be solved with the use of moves T and U.
