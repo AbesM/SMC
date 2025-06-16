@@ -14,8 +14,8 @@ Exotica is a phenomenon first discovered by J.W. Milnor in the '60es. Here we ar
 
 We were really lucky and found a guide in our trip in *Exoticaland*. Here are the plans that he helped us think of: 
 
-1. [AS](https://www.youtube.com/watch?v=p60ZAqxHq2M) [Tentativo di note](/files/AS_SIMONS.pdf )
-2. [LP] (https://www.youtube.com/watch?v=B83yIIaTq_s)
+1. [AS](https://www.youtube.com/watch?v=p60ZAqxHq2M) [Tentativo di note](/files/AS_SIMONS.pdf)
+2. [LP](https://www.youtube.com/watch?v=B83yIIaTq_s)
 3. 
 4. 
 5. 
