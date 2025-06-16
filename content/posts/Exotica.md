@@ -9,3 +9,13 @@ Exotica is a phenomenon first discovered by J.W. Milnor in the '60es. Here we ar
 
 1. [Fintushel&Stern] Their toric surgery in K3 surfaces is still today one of the best understood and "classic" way to build exotica. The check that our manifolds are indeed exotica is due to SW-Theory.
 2. [MM](https://www.youtube.com/watch?v=8zjgmEpMyT0&t=25s) Mini courses given by Maggie Miller on Surfaces in 4-Manifolds
+
+# The ghost writer
+
+We were really lucky and found a guide in our trip in *Exoticaland*. Here are the plans that he helped us think of: 
+
+1. [AS](https://www.youtube.com/watch?v=p60ZAqxHq2M) [Tentativo di note]( /files/AS_SIMONS.pdf )
+2. [LP] (https://www.youtube.com/watch?v=B83yIIaTq_s)
+3. 
+4. 
+5. 
