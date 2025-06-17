@@ -12,4 +12,6 @@ We will do surgery on Lagrangian tori in symplectic 4-manifolds explicitely desc
 
 # 2. Preliminaries
  
- -We start by recalling basics of LF and the relations of braiding, lantern and 4holed torus in $MCG(\Sigma_g^b)$
+ - We start by recalling basics of LF and the relations of braiding, lantern and 4holed torus in $MCG(\Sigma_g^b)$
+ - By Gompf-Thurston suitable LF are symplectic. We take suitable LF. 
+- Remarks on torus surgery
