@@ -21,3 +21,11 @@ lastmod = ':git'
 
 - (Torus surgery) We briefly recall surgery along a torus as in FPS. Suppose we got a torus with 0 self-intersection number. We can consider a framing of its normal bundle. Chosen a closed curve c we call $(p,q)$ surgery sending a meridian to p meridian+q c.
 - (Luttinger surgery) If the torus was Lagrangian and we do $(1,k)$ surgery for $k\in\mathbb{Z}$ we keep a symplectic manifold.  
+
+## SW Invariants.
+- For us SW will be a map from Spin-c to the integers. We should be more precise on this and on its vanishing. Here the key idea is to use SW of the covering space to discuss exotica of the base manifold.
+-SW invariants and torus surgery are quite well understood after (Morgan, Mrowka, Szabo)
+
+# 3. Exotic structure on definite manifolds with $b_2=2$ 
+
+ The goal for this section is the following. We start with a genus 2 surface with self-intersection 0 in $T^4\#2\overline{CP}^2$
