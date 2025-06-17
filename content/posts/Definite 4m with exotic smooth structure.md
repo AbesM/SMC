@@ -42,3 +42,5 @@ lastmod = ':git'
 - They also do quite some work to compute the SW invariants of such manifolds. 
 
     # 4. Exotic structures on $Z_1\#$ 
+
+    What I got until here is kind of confused. We are gluing some V guys to get a X guy who is the universal cover of the manifolds that will be exotic at the end of the day. 

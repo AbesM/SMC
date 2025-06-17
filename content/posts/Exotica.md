@@ -17,5 +17,5 @@ We were really lucky and found a guide in our trip in *Exoticaland*. Here are th
 1. [AS](https://www.youtube.com/watch?v=p60ZAqxHq2M) [Tentativo di note](/files/AS_SIMONS.pdf)
 2. [LP](https://www.youtube.com/watch?v=B83yIIaTq_s)
 3. [SS](https://abesm.github.io/SMC/posts/definite-4m-with-exotic-smooth-structure/)
-4. 
+4. [BH](https://abesm.github.io/SMC/posts/BaykurHamada/) Baykur-Hamada
 5. 
