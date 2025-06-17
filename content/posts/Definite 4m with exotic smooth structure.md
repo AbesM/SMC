@@ -17,4 +17,7 @@ lastmod = ':git'
 - Closed, oriented 4m with finite cyclic fundamental group and their universal cover are quite well understood in terms of their intersection form after Hambleton-Kreck.
 - If we have negative def interesection form, Z2 group and $b_2>0$ we have that $\Chi$ decides the homeo type.
 
-## Torus surgery
+##  Surgery
+
+- (Torus surgery) We briefly recall surgery along a torus as in FPS. Suppose we got a torus with 0 self-intersection number. We can consider a framing of its normal bundle. Chosen a closed curve c we call $(p,q)$ surgery sending a meridian to p meridian+q c.
+- (Luttinger surgery) If the torus was Lagrangian and we do $(1,k)$ surgery for $k\in\mathbb{Z}$ we keep a symplectic manifold.  
