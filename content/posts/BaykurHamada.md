@@ -14,4 +14,10 @@ We will do surgery on Lagrangian tori in symplectic 4-manifolds explicitely desc
  
  - We start by recalling basics of LF and the relations of braiding, lantern and 4holed torus in $MCG(\Sigma_g^b)$
  - By Gompf-Thurston suitable LF are symplectic. We take suitable LF. 
-- Remarks on torus surgery
+- Remarks on torus surgery and a lemma that shows how we can "control" fundamental groups. Remark 3 might be useful. 
+
+## 2.3 Spin structures and LF. 
+
+Given a $s$ spin-structure we can associate a quadratic form. We consider the spin mapping class group. We can relate the existence of a spin structure on $X$ so the monodromy factorization.  
+
+
