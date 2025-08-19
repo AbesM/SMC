@@ -22,4 +22,15 @@ lastmod = ':git'
 
  We will work with relatively minimal Lefschetz fibration. 
 
- -*The Recipe* Consider the handle decomposition on the complement of the tubular neigh of a regular fiber. Consider the standard geometric basis of $H_1(\Sigma_g),$ which can be used to label the 1-handles. Let $X\to S^2$ be a genus $g$ LF with signature $\sigma(X)=0$. By Endo this implies $g\goe 3. (Endo).$
+ -*The Recipe* Consider the handle decomposition on the complement of the tubular neigh of a regular fiber. Consider the standard geometric basis $\{a_i,b_i\} of $H_1(\Sigma_g),$ which can be used to label the 1-handles. Let $X\to S^2$ be a genus $g$ LF with signature $\sigma(X)=0$. By Endo this implies $g\goe 3. (Endo).$ 
+ By Smith it admits a non-separating vanishing cycle $c$ and we consider elements of $MCG$ such that they bring $c$ to the geometric basis. Let $P=1$ be the factorization of the monodromy. We can consider now a new LF where we consider 2-g copies of $P$ conjugated by the elements chosen before. By cooking some Hurwitz relations we get the desired manifold.
+
+ -*The Example* At the beginning we invoked 
+
+
+# PS. Filling in the details
+
+Now that we have a general idea of the content and the aim of the paper let's try to learn more about the details and the claims. 
+
+- **Endo's signature formula** It builds on the work of Matsumoto and Meyer
+- **Smith** the non separating vanishing cycle. 
