@@ -18,4 +18,8 @@ We were really lucky and found a guide in our trip in *Exoticaland*. Here are th
 2. [LP](https://www.youtube.com/watch?v=B83yIIaTq_s)
 3. [SS](https://abesm.github.io/SMC/posts/definite-4m-with-exotic-smooth-structure/)
 4. [BH](https://abesm.github.io/SMC/posts/baykurhamada/) Baykur-Hamada
-5. 
+
+# Non-Orientable World
+
+1. Exotic RP^4 were constructed by both CS and FS. 
+2. To prove exoticity in the non orientable case one can use the $\eta$ invariant.
