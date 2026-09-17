@@ -1,3 +1,8 @@
++++
+title = 'Guitar'
+date = '.Date'
++++
+
 Let's try to be more methodic with guitar and set some "milestone" we would like to get to by the end of the year. 
 
 - More play, less study
