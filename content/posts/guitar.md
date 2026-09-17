@@ -1,6 +1,6 @@
 +++
 title = 'Guitar'
-date = '{{ .Date }}'
+date = '2026-09-17T16:00:00+02:00'
 +++
 
 Let's try to be more methodic with guitar and set some "milestone" we would like to get to by the end of the year. 
